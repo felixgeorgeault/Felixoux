@@ -2,7 +2,7 @@
     "name": "felixoux-theme",
     "displayName": "Felixoux-theme",
     "description": "Felixoux theme !",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "publisher": "Felixouxtheme",
     "repository": {
         "type": "git",
@@ -10,9 +10,9 @@
     },
     "keywords": [
         "felixoux",
-        "theme", 
+        "theme",
         "felixoux theme",
-        "dark theme", 
+        "dark theme",
         "Felixoux theme",
         "Felixoux dark theme"
     ],
