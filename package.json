@@ -1,8 +1,21 @@
 {
     "name": "felixoux-theme",
-    "displayName": "felixoux-theme",
+    "displayName": "Felixoux-theme",
     "description": "Felixoux theme !",
-    "version": "0.0.1",
+    "version": "0.0.5",
+    "publisher": "Felixouxtheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Felixoux/Felixoux"
+    },
+    "keywords": [
+        "felixoux",
+        "theme", 
+        "felixoux theme",
+        "dark theme", 
+        "Felixoux theme",
+        "Felixoux dark theme"
+    ],
     "engines": {
         "vscode": "^1.55.0"
     },
